@@ -1,4 +1,4 @@
-FROM alpine:3.18.4
+FROM alpine:3.18.6
 
 # Init
 RUN apk update && \
